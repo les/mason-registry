@@ -13,4 +13,4 @@ categories:
   - Linter
 
 source:
-  id: pkg:npm/stylelint-config-standard@36.0.1
+  id: pkg:npm/stylelint-config-standard@37.0.0
