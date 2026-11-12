@@ -1,0 +1,19 @@
+---
+name: vivify
+description: Live browser preview for Markdown, HTML, Jupyter Notebooks, and more.
+homepage: https://github.com/jannis-baum/Vivify
+licenses:
+  - GPL-3.0
+languages:
+  - Markdown
+categories: []
+
+source:
+  id: pkg:github/jannis-baum/Vivify@v0.15.0
+  asset:
+    - target: linux_x64
+      file: vivify-linux.tar.gz
+
+bin:
+  viv: vivify-linux/viv
+  vivify-server: vivify-linux/vivify-server
