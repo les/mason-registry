@@ -1,6 +1,6 @@
 ---
 name: stylelint-config-standard
-description: The standard shareable config for Stylelint.
+description: Standard Stylelint rules for consistent, modern CSS.
 homepage: https://github.com/stylelint/stylelint-config-standard
 licenses:
   - MIT
